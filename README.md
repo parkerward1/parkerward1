@@ -2,14 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif>
 
-- 🌱 I’m currently learning about **software development and multi cloud computing**
-
-- 📫 How to reach me **parkerward308@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/parker--ward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parker--ward" height="30" width="40" /></a>
-<a href="https://instagram.com/parkerwardd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parkerwardd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetkenzo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetkenzo" height="30" width="40" /></a>
 <a href="https://discord.gg/324303482901364736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="324303482901364736" height="30" width="40" /></a>
 </p>
